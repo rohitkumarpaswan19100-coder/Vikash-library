@@ -1,0 +1,6 @@
+{
+  "name": "Vikash Library",
+  "description": "Premier study library and seat booking management platform in Amba, Nabinagar Road, Bihar with real-time seat maps, user profiles, and administrative operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
